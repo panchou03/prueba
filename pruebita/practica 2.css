@@ -1,0 +1,40 @@
+p {
+	color : white ;
+	font-size: 18px ;
+	font-family: "Courier New" ;
+	display: block;
+	-webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+.descripcion {
+	background-color: yellow;
+}
+
+.barrita {
+	background-color: black;
+	color:white;
+	font-size: 10px;
+	font-family: Helvetica;
+	text-align: left;
+	padding: 5px;
+	margin: 0;
+}
+
+.titulo {
+	background-color: #ffff00;
+	color:white;
+	font-size: 48px;
+	font-family: Helvetica;
+	text-align: center;
+	padding: 20px;
+	margin: 0;
+}
+
+.imagen > img{
+	background-color: yellow;
+	border:4px solid #ffff00;
+	margin-left: 20px;
+}
